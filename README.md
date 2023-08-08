@@ -1,2 +1,2 @@
 # ImageLoadingApp
-Image loading demo using Glide, Picasso, Volley
+Android Image loading demo using Glide, Picasso, Volley
